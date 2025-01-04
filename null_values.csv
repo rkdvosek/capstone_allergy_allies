@@ -1,0 +1,21 @@
+column_name,null_values,percentage_null_values
+caseid,0,0.0
+Primary Suspect Drug Name,0,0.0
+Primary Suspect Drug,5695,23.716
+Use of Secondary Drug,15116,62.949
+Interacting Drug Name,14567,60.663
+Interacting Drugs,19656,81.856
+Drug Reaction,0,0.0
+Age,0,0.0
+Age Code,0,0.0
+sex,321,1.337
+Date of reaction,11174,46.533
+Initial FDA Date,2278,9.487
+FDA Date,0,0.0
+Report Date,86,0.358
+Occurrence Country,7189,29.938
+Outcome,13240,55.137
+Source of Report,21979,91.53
+Is primary suspect drug,0,0.0
+Is secondary suspect drug,0,0.0
+Is primary and secondary suspect drug,0,0.0
